@@ -25,5 +25,8 @@ SELECT
     C.Name                                                              AS 'Kundenavn'--STD
     C.Name                                                              AS 'Kundenavn'--STD
     C.Name                                                              AS 'Kundenavn'--STD
+
+
+    ZIBOCARE
 FROM ***schema***.dbo.[***regnskab***$Customer] AS C
 GO
