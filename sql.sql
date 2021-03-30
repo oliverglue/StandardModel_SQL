@@ -6,7 +6,10 @@ SELECT
     [Salesperson Code]                                                  AS 'Salgsperson',
     [Salesperson Code]                                                  AS 'Salgsperson',
     [Salesperson Code]                                                  AS 'Salgsperson',
-    [Salesperson Code]                                                  AS 'Salgsperson'
+    [Salesperson Code]                                                  AS 'Salgsperson', --ZIBOCARE
+    [Salesperson Code]                                                  AS 'Salgsperson',--ZIBOCARE
+    [Salesperson Code]                                                  AS 'Salgsperson',--ZIBOCARE
+    [Salesperson Code]                                                  AS 'Salgsperson' 
 FROM ***schema***.dbo.[***regnskab***$G_L Entry]
 GO    
 CREATE VIEW Salgslinjer AS
