@@ -11,6 +11,7 @@ SELECT
     CAST([G_L Account No_] AS VARCHAR)                                  AS 'Kontonummer',--STD
     [Posting Date]                                                      AS 'Bogføringsdato',--STD
     [Salesperson Code]                                                  AS 'Salgsperson',--STD,
+    [Salesperson Code]                                                  AS 'Salgsperson',--STD,
     [Salesperson Code]                                                  AS 'Salgsperson',
     [Salesperson Code]                                                  AS 'Salgsperson',
     [Salesperson Code]                                                  AS 'Salgsperson',
